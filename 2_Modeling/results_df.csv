@@ -1,7 +1,1 @@
 ,data_Dimension,Classes,Hidden_AF,TrainTest_Split,First_Hidden_Layer_Tensor_Count,Dropouts,Robust_Train_Accuracy,Robust_Test_Accuracy
-0,"(19020, 11)",2,relu,0.25,100,0.3,0.648,0.648
-1,"(19020, 11)",2,gelu,0.25,100,0.3,0.516,0.509
-2,"(19020, 11)",2,selu,0.25,100,0.3,0.648,0.648
-3,"(19020, 11)",2,sigmoid,0.25,100,0.3,0.648,0.648
-4,"(19020, 11)",2,tanh,0.25,100,0.3,0.648,0.648
-5,"(19020, 11)",2,softmax,0.25,100,0.3,0.648,0.648
