@@ -6,7 +6,7 @@ In artificial neural networks, the activation function of a node defines the out
 
 The performance of neural network models with different activation functions, keeping all other relevant variables constant, is studied for the following 2 datasets:
 1) Magic Gamma Telescope Dataset - (19020,11); 2 classes; https://archive.ics.uci.edu/ml/datasets/magic+gamma+telescope
-2) Covertype Dataser - (581012,54); 7 classes: https://archive.ics.uci.edu/ml/datasets/Covertype
+2) Covertype Dataser - (581012,54); 7 classes; https://archive.ics.uci.edu/ml/datasets/Covertype
 
 Structure of the repository:-
 - 1_Modelling: Contains python files with models using different AFs and datasets.
