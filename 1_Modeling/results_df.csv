@@ -1,2 +1,0 @@
-,data_Dimension,Classes,Hidden_AF,TrainTest_Split,First_Hidden_Layer_Tensor_Count,Dropouts,Robust_Train_Accuracy,Robust_Test_Accuracy
-0,"(581012, 55)",7,mish,0.25,100,0.3,0.365,0.365
