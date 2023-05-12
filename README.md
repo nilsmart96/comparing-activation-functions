@@ -11,6 +11,7 @@ The performance of neural network models with different activation functions, ke
 Structure of the repository:-
 - 1_Modelling: Contains python files with models using different AFs and datasets.
 - 2_Visualisation: Contains convergence visualisations for 'loss' and 'accuracy' for different runs.
+- 3_Presentation: Contains the final version of the presentation (delivered on 12-May-2023 @Frankfurt School) with summarized research and results.
 
 Contributors:-
 Jerome (@silvertuna); Rhushikesh (@rhushikezh); Neelesh (@neelblabla); Nils (@nilsmart96); Kirtesh (@kirteshpatel98)
