@@ -1,6 +1,6 @@
 ## Activation functions and their performance with different dimensions of data
 
-As part of the class project for Machine Learning II @Frankfurt School, we dive deeper into undertanding Activation Functions (AFs) used in Neural Networks.
+As part of the class project for Machine Learning II @Frankfurt School, we dive deeper into understanding Activation Functions (AFs) used in Neural Networks.
 
 In artificial neural networks, the activation function of a node defines the output of that node given an input or set of inputs. We study 7 different AFs in total, a few convetional and the others state-of-the-art.
 
@@ -14,6 +14,6 @@ Structure of the repository:-
 - 3_Presentation: Contains the final version of the presentation (delivered on 12-May-2023 @Frankfurt School) with summarized research and results.
 
 Contributors:-
-Jerome (@silvertuna); Rhushikesh (@rhushikezh); Neelesh (@neelblabla); Nils (@nilsmart96); Kirtesh (@kirteshpatel98)
+Neelesh (@neelblabla); Jerome (@silvertuna); Rhushikesh (@rhushikezh); Nils (@nilsmart96); Kirtesh (@kirteshpatel98)
 
  
